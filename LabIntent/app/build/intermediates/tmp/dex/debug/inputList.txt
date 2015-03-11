@@ -1,0 +1,5 @@
+D:\Users\ygimenez\Workspace\AndroidProjects\Coursera\LabIntent\app\build\intermediates\classes\debug
+D:\Users\ygimenez\Workspace\AndroidProjects\Coursera\LabIntent\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cb408c0ba9f5556c30063b025abddd078746216d.jar
+D:\Users\ygimenez\Workspace\AndroidProjects\Coursera\LabIntent\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-80bec7d729848071332e00f4795d678fdf2cc435.jar
+D:\Users\ygimenez\Workspace\AndroidProjects\Coursera\LabIntent\app\build\intermediates\pre-dexed\debug\classes-2fc403c1788e809b3cda57b1e172ff7bfed5f936.jar
+D:\Users\ygimenez\Workspace\AndroidProjects\Coursera\LabIntent\app\build\intermediates\pre-dexed\debug\classes-8bbdbabbbacc276a95c42f735137a18f5057f18b.jar
